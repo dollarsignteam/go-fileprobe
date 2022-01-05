@@ -3,7 +3,7 @@ package fileprobe_test
 import (
 	"testing"
 
-	"github.com/dollarsignteam/go-prober/fileprobe"
+	"github.com/dollarsignteam/go-fileprobe"
 )
 
 func TestSetPath(t *testing.T) {
