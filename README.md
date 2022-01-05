@@ -13,6 +13,8 @@ go get github.com/dollarsignteam/go-fileprobe
 Get datetime before or after specific datetime
 
 ```go
+package main
+
 import (
   "log"
 
