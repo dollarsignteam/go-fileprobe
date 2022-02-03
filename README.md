@@ -10,8 +10,6 @@ go get github.com/dollarsignteam/go-fileprobe
 
 ## Usage
 
-Get datetime before or after specific datetime
-
 ```go
 package main
 
